@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.fistpage-bg {
+
+    background-color: #225db0;
+
+
+
+    height: 150vh;
+
+}
+
+
+
+.fistpage-text {
+
+    padding: 28px;
+
+}
+
+
+
+.fistpage-text-heading {
+
+    color: white;
+
+    font-family: "Roboto";
+
+
+
+
+
+}
+
+
+
+.fistpage-text-paragraph {
+
+    color: white;
+
+    font-family: "Roboto";
+
+}
+
+
+
+.fistpage-card {
+
+    background-color: white;
+
+    padding: 5px;
+
+    border-radius: 8px;
+
+
+
+    margin: 25px;
+
+}
+
+
+
+.fistpage-card-text {
+
+    color: black;
+
+    font-family: "Roboto";
+
+    font-size: 20px;
+
+    text-align: center;
+
+}
+
+
+
+.fistpage-card-img {
+
+    margin-left: 13px;
+
+}
+
+
+
+.second-page-img-componds {
+
+    border-radius: 20px;
+
+    padding: 30px;
+
+    margin: 20px;
+
+}
+
+
+
+.second-page-heading {
+
+    color: white;
+
+    padding: 20px;
+
+}
+
+
+
+.second-page-order-list {
+
+    color: white;
+
+
+
+}
+
+
+
+.second-page-list-2 {
+
+    margin: 25px;
+
+}
+
+
+
+.buttion {
+
+    color: white;
+
+    background-color: #225db0;
+
+    border-radius: 0px;
+
+    border-width: 0px;
+
+}
